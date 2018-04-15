@@ -1,0 +1,11 @@
+
+<html>
+<title>lifeline</title>
+<head>
+<style>
+.center
+{
+margin:60px;
+font-family:arial;
+color:red;
+}
